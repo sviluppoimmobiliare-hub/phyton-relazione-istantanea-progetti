@@ -1,4 +1,4 @@
+streamlit
 gspread
-google.generativeai
-googleapiclient.discovery
-google.oauth2.service_account 
+google-generativeai
+google-api-python-client
