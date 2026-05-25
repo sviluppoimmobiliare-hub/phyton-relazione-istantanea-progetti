@@ -1,5 +1,4 @@
-import gspread
-import streamlit as st
-import google.generativeai as gen
-from googleapiclient.discovery import build
-from google.oauth2.service_account import Credentials
+gspread
+google.generativeai
+googleapiclient.discovery
+google.oauth2.service_account 
