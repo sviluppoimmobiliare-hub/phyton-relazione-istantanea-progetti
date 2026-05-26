@@ -2,4 +2,3 @@ streamlit
 gspread
 google-generativeai
 google-api-python-client
-os
