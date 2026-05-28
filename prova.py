@@ -20,7 +20,7 @@ drive_service = build('drive', 'v3', credentials=creds)
 fogli_di_valutazione = gc.open("modello per phyton (1)")
 workbook_sviluppo = gc.open("workbook")
 
-api_gemini = "AIzaSyCh8uKiLgeoeRI6ik7herjj64LOUiqx2Z0"
+api_gemini = "AIzaSyC6Ih2pFcayB_MrUupjiFyCZuAi1H2ZZd4"
 gen.configure(api_key=api_gemini)
 
 st.header("Modello di Valutazione Rapida")
